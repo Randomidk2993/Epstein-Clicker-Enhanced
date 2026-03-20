@@ -1,5 +1,5 @@
 (function() {
-  const SITE_URL = "https://sites.google.com/view/staticquasar931/gm3z";
+  const SITE_URL = "https://sites.google.com/view/blackberryg/epstein-clicker";
   const TICKER_COUNT = 6;
   const WATERMARK_STRINGS = [
     "iteuhw807uhb70sbtiamt3imc8qguga6stalrf9j3g1gj498dh",
